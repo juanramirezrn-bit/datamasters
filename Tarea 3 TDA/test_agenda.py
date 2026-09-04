@@ -145,4 +145,4 @@ def test_muchos_contactos_se_mantienen_ordenados():
 
     assert len(agenda) == 6
     assert agenda.nombres() == ["banano", "fresa", "kiwi", "mango", "pera", "uva"]
-    assert agenda.telefono_de("uva") == "2"
+    assert agenda.telefono_de("uva") == "2" 
