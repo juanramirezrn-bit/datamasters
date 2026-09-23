@@ -2,6 +2,7 @@ import random
 import timeit
 from matriz import Matriz
 
+
 random.seed(11)
 
 
