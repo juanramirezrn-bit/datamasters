@@ -17,4 +17,4 @@ factor cercano a cuatro (4,10 y 4,29), tal como se esperaba.
 Esto era de esperar porque `suma()` es O(f · c): al doblar el lado, las
 celdas se multiplican por cuatro (250×250 = 62.500 y 500×500 = 250.000),
 y como el costo depende directamente del número de celdas, el tiempo
-también se multiplica por cuatro.
+también se multiplica por cuatro
