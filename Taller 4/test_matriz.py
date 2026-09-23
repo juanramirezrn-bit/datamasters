@@ -55,4 +55,4 @@ def test_coordenadas_fuera_de_rango():
     with pytest.raises(IndexError):
         m.asignar(0, 2, 5)
     with pytest.raises(IndexError):
-        m.obtener(-1, 0)
+        m.obtener(-1,0)
